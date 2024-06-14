@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hello! 👋 I'm Javi
 
-<!--
-**javihertz/javihertz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. I am a Senior Engineering Frontend with more than 9 years of experience doing magic, breaking/fixing stuff, and teaching/learning from/to great teammates ❤️
 
-Here are some ideas to get you started:
+## 🚀 Highlighted Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Frontend Traning Zone](https://github.com/javihertz/frontend-training-zone)
+A monorepo with different Frontend challenges.
+
+## 🛠️ Technologies and Tools
+
+- **Programming Languages:** JavaScript, TypeScript
+- **Frameworks:** React
+- **Tools:** Git, Docker, VS Code, etc.
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+
+---
+
+Thank you for visiting my GitHub profile!
