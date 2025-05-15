@@ -16,7 +16,7 @@ A monorepo with different Frontend challenges.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javihertz&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javihertz&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javihertz&layout=compact&theme=radical)
 
 ## Other Stats
