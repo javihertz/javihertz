@@ -13,16 +13,6 @@ A monorepo with different Frontend challenges.
 - **Frameworks:** React
 - **Tools:** Git, Docker, VS Code, etc.
 
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=javihertz&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=javihertz&layout=compact&theme=radical)
-
-## Other Stats
-
-![CodeWars Stats](https://www.codewars.com/users/javihertz/badges/large)
-
 ---
 
 Thank you for visiting my GitHub profile!
