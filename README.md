@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Javi
 
-Welcome to my GitHub profile. I am a Senior Frontend Engineer with more than 8 years of experience in creating innovative solutions, troubleshooting and optimizing code, and continuously learning from and mentoring incredible teammates. ❤️
+Welcome to my GitHub profile. I am a Senior Frontend Engineer with more than 9 years of experience in creating innovative solutions, troubleshooting and optimizing code, and continuously learning from and mentoring incredible teammates. ❤️
 
 ## 🚀 Highlighted Projects
 
