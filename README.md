@@ -1,1 +1,1 @@
-Javi here. I code for a 🏡, ❤️, and 💰
+Javi here. I code for a 🏡 ❤️ 💰
