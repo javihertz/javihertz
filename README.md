@@ -1,2 +1,1 @@
-Javi here. 
-+10 Years of exp.
+I’m Javi, experienced and patient.
