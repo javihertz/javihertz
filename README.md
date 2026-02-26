@@ -1,1 +1,1 @@
-I’m Javi, experienced and patient.
+Chill programming
